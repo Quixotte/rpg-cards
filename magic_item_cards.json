@@ -1,0 +1,264 @@
+[
+  {
+    "count": 1,
+    "title": "Fear Bomb",
+    "contents": [
+      "subtitle | consumable",
+      "rule",
+      "",
+      "text | As an action you can throw the bomb up to 60 feet. All creatures within 5 feet of impact must make a dc 11 <i>Wis </i> save or be frightened for 1 minute. ",
+      "",
+      "text| Creatures affected by this can repeat the saving throw at the end of their turn. "
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "skull-in-jar"
+  },
+  {
+    "count": 1,
+    "title": "Bagpipes of Invisibility",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Max charges | 10",
+      "property | Recharge | 10 seconds  of genuine applause recharges one charge",
+      "rule",
+      "",
+      "text | You are invisible to creatures that hear you play the bagpipe. Each minute you use the bagpipe in this way causes the bagpipes to lose 1 charge. ",
+      "",
+      "fill | 2",
+      "",
+      "boxes | 5 | 3.5",
+      "boxes | 5 | 3.5",
+      "",
+      ""
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "guitar"
+  },
+  {
+    "count": 1,
+    "title": "Everything thrower",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "text | This backpack weighs 20 kilo's and function like a flamethrower but for everything. You can use it as an action by pouring the respective material into the backpack and aiming the hose. Below are some examples.",
+      "fill | 1",
+      "property | Alchemists Fire | Creatures in a 15-foot cone are affected as if by an alchemists fire.",
+      "property | Acid | Creatures in a 15-foot cone takes 2d6 acid damage.",
+      "property | Caltrops | Creatures in a 15-foot cone take 2d6 piercing damage."
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "backpack"
+  },
+  {
+    "count": 1,
+    "title": "Ring of Kamikaze",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "description | Spell | Once per day, recharging at dawn, you can use an action to cast <i> fireball</i> (dc 13) centered on your location. "
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "ring"
+  },
+  {
+    "count": 1,
+    "title": "Boots of Blinding Speed",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement |",
+      "property | Max Charges | 5",
+      "property | Recharge | 1d4 + 1 at dawn.",
+      "rule",
+      "text | You can click the heels of the boots and expend 1 charge to gain the effect of the <i> Haste </i> spell until the start of your next turn. ",
+      "text | You are also blinded until the start of your next turn.",
+      "fill | 1",
+      "boxes | 5 | 3.5"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "boots"
+  },
+  {
+    "count": 1,
+    "title": "Bracers of Mirror Daggers",
+    "contents": [
+      "subtitle | Wondrous Item, Rare",
+      "rule",
+      "property | Attunement |",
+      "property | Max Charges | 5",
+      "property | Recharge | 1d4+1 at dusk.",
+      "rule",
+      "text | Whenever you use an attack to throw a dagger you can expend a charge to create several illusory daggers that fly with it. This grants advantage on the attack unless the target can see through illusions.",
+      "fill ",
+      "boxes | 5 | 3.5"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "bracer",
+    "title_size": "10"
+  },
+  {
+    "count": 1,
+    "title": "Quiver of Curse",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | ",
+      "property | Max charge | 3",
+      "property | Recharge | At dusk, 1d4+1",
+      "text | This quiver has unlimited arrows.",
+      "text | When you hit a creature with an arrow from this quiver you can choose to spend a charge to have that creature be the target of a <i> Bane </i> spell with a DC of 8 + your prof bonus + your wisdom bonus.",
+      "fill",
+      "boxes | 5 | 3.5"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "quiver"
+  },
+  {
+    "count": 1,
+    "title": "Cloak of Elvenkind",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | ",
+      "text | While you wear with the hood up you gain the following effects: ",
+      "bullet | You have advantage on stealth checks",
+      "bullet | You have disadvantage on perception checks"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "cloak"
+  },
+  {
+    "count": 1,
+    "title": "Eyes of the Eagle",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | ",
+      "text | These glasses grant the wielder advantage on Perception checks. In condition of clear visibility, you can make out details of objects up to 2 miles far."
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "steampunk-goggles"
+  },
+  {
+    "count": 1,
+    "title": "Periapt of Wound Closure",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | ",
+      "text | While wearing this pendant, you stabilize whenever you are dying at the start of your turn. ",
+      "text | In addition, whenever you roll Hit Die to regain hit points, double the number of hit points restored."
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "necklace",
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "title": "Sending Stones",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "text | You can use one stone to cast the spell <i> Sending </i>, targeting the owner of the other stone. ",
+      "text | The stone can't be used until the next dawn."
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "phone"
+  },
+  {
+    "count": 1,
+    "title": "Wand of the Warmage, +1",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement |",
+      "property | Max Charge | 5",
+      "property | Recharge | 1d4+1 at dawn",
+      "text | You gain a +1 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack.",
+      "text | Whenever you make a concentration saving throw, you can expend a charge to gain advantage on the roll.",
+      "fill | 1",
+      "boxes | 5 | 3.63"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "crystal-wand",
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "title": "Dwarven Warhammer",
+    "contents": [
+      "subtitle | Wondrous item, Uncommon",
+      "rule",
+      "property | Attunement |",
+      "text | You have a +1 on attack and damage rolls with this hammer.",
+      "text | You have advantage on Perception and Investigation checks to find traps and secret doors in stone.",
+      "",
+      "fill",
+      "",
+      "text | <i>Bathe me in giant blood </i>"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "thor-hammer"
+  },
+  {
+    "count": 1,
+    "title": "Rapier of Glamour",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | with prof. in performance.",
+      "property | Max Charges | 5",
+      "property | Recharge | 1d4 + 1 at dawn.",
+      "text | As a reaction to being hit by a melee attack, you can expend one charge to add your charisma bonus to your AC for that attack, perhaps causing the attack to miss.",
+      "text | This does not work against creatures that are immune to the charmed condition.",
+      "",
+      "fill | ",
+      "boxes | 5 | 3.5"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "sword-hilt"
+  },
+  {
+    "count": 1,
+    "title": "Curse of the Fates",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | by warlock",
+      "text | Whenever you curse a creature, either with a spell or a class feature, you can also choose to affect the creature with the <i>Compelled Duel </i> spell."
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "ring"
+  },
+  {
+    "count": 1,
+    "title": "Ring of the Fire Adapt",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | attunement | abilty to cast a spell",
+      "text | You gain the benefit of the Elemental Adapt feat (fire):",
+      "bullet | Spells you cast that deal fire damage ignore resistance.",
+      "bullet | When you roll damage for a spell that deals fire damage, you can treat any 1 on a damage die as a 2."
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "ring"
+  }
+]
