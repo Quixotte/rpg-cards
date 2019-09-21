@@ -1,6 +1,145 @@
 [
   {
     "count": 1,
+    "title": "Dwarven Battleaxe",
+    "contents": [
+      "subtitle | Wondrous item, Uncommon",
+      "rule",
+      "property | Attunement | Str higher than 13",
+      "text | You have a +1 on attack and damage rolls with this axe.",
+      "text | You have advantage on Perception and Investigation checks to find traps and secret doors in stone.",
+      "",
+      "fill",
+      "",
+      "text | <i>Bathe me in giant blood </i>"
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "battle-axe"
+  },
+  {
+    "count": 1,
+    "title": "Staff of the Lazy",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | Attunement | by a lazy person",
+      "property | Max charges | 3",
+      "property | Recharge| 1d3 at dawn",
+      "rule",
+      "",
+      "text | As an action, you can expend a charge from this staff to cast <i> Unseen servant </i>.",
+      "text | The servants created from this staff do not disappear from being too far away from the caster if they remain within 60 ft of the staff. ",
+      "",
+      "fill | ",
+      "boxes | 3 | 3.5"
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "wizard-staff"
+  },
+  {
+    "count": 1,
+    "title": "Scroll of Wild Magic",
+    "contents": [
+      "subtitle | Wondrous Item, Uncommon",
+      "rule",
+      "property | consumable |",
+      "text | As part of casting a 1st level spell or higher, you can also use this scroll to unleash a wild magic surge (page 104 of the PHB).",
+      "text | To use this scroll, you must scream <b> WILD MAGIC </b>."
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "scroll-unfurled"
+  },
+  {
+    "count": 1,
+    "title": "Cloak of Commentary",
+    "contents": [
+      "subtitle | Wondrous Item, Common",
+      "rule",
+      "property | Attunement |",
+      "",
+      "text | When performing tasks, this cloak will supply background music and commentary. ",
+      "fill|",
+      "text | (Think what Kronk does during his stealth mission in The Emperor's new Groove.)",
+      "",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "cloak"
+  },
+  {
+    "count": 1,
+    "title": "Box of Cookies",
+    "contents": [
+      "subtitle | Wondrous Item, Common",
+      "rule",
+      "text | At dawn, this box is filled with 5 cookies. Any cookies from the previous day disappear. ",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "cupcake"
+  },
+  {
+    "count": 1,
+    "title": "Belt of the Berserker",
+    "contents": [
+      "property | Attunement | ",
+      "text | Once per day, recharging at dawn, you can use a bonus action to gain the following effects for up to 1 minute:",
+      "text | At the start of your turn, choose the creature closest to you (at random if there are multiple). You spend your turn attacking this creature. At the end of your turn you can choose to make DC 12 wisdom save to end the effect.",
+      "text | During this you gain the effects of a barbarian rage:",
+      "bullet | Resistance to piercing, bludgeoning and slashing damage.",
+      "bullet | Advantage on strength checks/saves.",
+      "bullet | +2 damage on strength based attacks.",
+      "bullet | You cannot cast or concentrate on spells.",
+      ""
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "belt-armor"
+  },
+  {
+    "count": 1,
+    "title": "Panty of Shadows",
+    "contents": [
+      "subtitle | Wondrous Item, Common",
+      "rule",
+      "text | As an action, while wearing these panties, you can change the nature of your shadow. You can adjust it to take the shape of a monster between the tiny and large size."
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "armored-pants"
+  },
+  {
+    "count": 1,
+    "title": "Shirt of Donning",
+    "contents": [
+      "subtitle | Wondrous Item, Common",
+      "rule",
+      "text | While wearing this shirt, donning an armour always takes an action as the shirt attracts the armour pieces to your body."
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "shirt"
+  },
+  {
+    "count": 1,
+    "title": "Socks of Hiding",
+    "contents": [
+      "subtitle | Wondrous Item, Common",
+      "rule",
+      "text | In each sock you can hide a single tiny object in an extra-dimensional space, such as a dagger or a lock-pick set.",
+      "text | Stowing or retrieving an item from a sock requires an action. "
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "socks"
+  },
+  {
+    "count": 1,
     "title": "Fear Bomb",
     "contents": [
       "subtitle | consumable",
