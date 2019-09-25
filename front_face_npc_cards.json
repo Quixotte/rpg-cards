@@ -1,0 +1,268 @@
+[
+  {
+    "count": 1,
+    "color": "",
+    "title": "Emmek Frewn",
+    "icon": "",
+    "contents": [
+      "text | Owner of Frewns' Brews.",
+      "fill | ",
+      "picture | https://www.worldanvil.com/media/cache/sidebar/uploads/images/35e1ddad0b4f51d34ccc88f3ccaa440a.jpg | 250"
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ]
+  },
+  {
+    "count": 1,
+    "title": "Davil Starsong",
+    "contents": [
+      "text | Leader of the 'Doom Raiders'",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/8/80/DavilStarsong.png/revision/latest?cb=20190118105332 | 200"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Broxley Fairkettle",
+    "contents": [
+      "text | Contact to the Fellowship of Innkeepers",
+      "text | Father of a nonuplets.",
+      "fill |",
+      "picture | https://db4sgowjqfwig.cloudfront.net/images/5020370/Sp_Halfling.jpg | 200"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Ott Sleeltoes",
+    "contents": [
+      "text | In dire need of a certain fish.",
+      "fill | ",
+      "picture | https://i.pinimg.com/originals/13/2d/99/132d99ba702b8e69e6eb3eb4998150f0.png | 225"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Zardoz Zord",
+    "contents": [
+      "subtitle | Human from Luskan",
+      "rule",
+      "property | title | Captain of the Sea Maiden's Faire",
+      "property | accent | Sean Connery",
+      "",
+      "fill | ",
+      "picture | https://db4sgowjqfwig.cloudfront.net/images/5295543/Captain_Zardoz_Zord.jpg | 200"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": "",
+    "icon": "brutal-helm"
+  },
+  {
+    "count": 1,
+    "title": "Avi",
+    "contents": [
+      "subtitle | Water genasi",
+      "rule",
+      "text | Co-owner of 'Steam and Steel'. Expert armorsmith and locksmith. Married to Embric.",
+      "fill | ",
+      "picture | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsT3WV6v1Wch5vbwr8OzTf3DkVvLYhhghK6-6qzcmdPrt4NCX | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": "",
+    "icon": "money-stack"
+  },
+  {
+    "count": 1,
+    "title": "Laeral Silverhand",
+    "contents": [
+      "subtitle | High Elf",
+      "rule",
+      "text | Open Lord of Waterdeep and leader of the Lord's Alliance.",
+      "text | Chosen of the Goddess of Magic and one of the most powerful wizards alive.",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/0/01/Laeral-5e.jpg/revision/latest?cb=20181208034828 | 200"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "icon": "brutal-helm",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Esteban Santiago",
+    "contents": [
+      "subtitle | Human",
+      "rule",
+      "text | Lead character in a theater play at the \"Pink Flumph\". ",
+      "text | Arch-Rival of Rogelio de la Vega.",
+      "fill | ",
+      "picture | data:image/jpeg;base64,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 | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": "",
+    "icon": "brutal-helm"
+  },
+  {
+    "count": 1,
+    "title": "Davil Starsong",
+    "contents": [
+      "subtitle | High-Elf",
+      "rule",
+      "text | Leader of the Doom-Raiders. ",
+      "text | Master of Opportunities and Communication",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/8/80/DavilStarsong.png/revision/latest?cb=20190118105332 | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "icon_back": "",
+    "background_image": "",
+    "icon": "brutal-helm"
+  },
+  {
+    "count": 1,
+    "title": "Tashlyn Jafeera",
+    "contents": [
+      "subtitle | human",
+      "rule",
+      "text | Officer of the Doom Raiders",
+      "text | Master of Mercenaries",
+      "text | Captain of the Watch in South Ward.",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/d/de/Tashlyn.png/revision/latest?cb=20190205055255 | 225",
+      ""
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Skeemo Weirdbottle",
+    "contents": [
+      "subtitle | Gnome",
+      "rule",
+      "text | Officer of the Doom Raiders",
+      "text | Master of Magic",
+      "text | Owner of Weirdbottle's Concoctions",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/5/57/Skeemo.png/revision/latest?cb=20190203172900 | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Istrid Horn",
+    "contents": [
+      "subtitle | Shield Dwarf",
+      "rule",
+      "text | Officer of the Doom Raiders",
+      "text | Master of coin",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/7/75/Istrid.png/revision/latest?cb=20190206092640 | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Ziraj the Hunter",
+    "contents": [
+      "subtitle | Half-Orc",
+      "rule",
+      "text | Officer of the Doom Raiders",
+      "text | Master of Assassination",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/a/a7/Ziraj.png/revision/latest?cb=20190203082219 | 225"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": "",
+    "icon": "brutal-helm"
+  },
+  {
+    "count": 1,
+    "title": "Achara Demelza",
+    "contents": [
+      "subtitle | human",
+      "rule",
+      "text | Former Thayan Slave.",
+      "fill | ",
+      "picture | https://i.pinimg.com/originals/f2/55/f7/f255f70dc633a92b980d6ad78dd2ca3b.jpg | 225",
+      ""
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "background_image": "",
+    "icon_back": ""
+  },
+  {
+    "count": 1,
+    "title": "Remmalia Haventree",
+    "contents": [
+      "subtitle | Wood Elf",
+      "rule",
+      "text | Harper with a huge grudge against the Cult of the Dragon.",
+      "fill | ",
+      "picture | https://db4sgowjqfwig.cloudfront.net/images/3714570/remallia.jpg | 200"
+    ],
+    "tags": [],
+    "color": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Ulkoria Stonemarrow",
+    "contents": [
+      "",
+      "text | Known as the \"Gargoyle\" because of her constant scowling.",
+      "text | An Archmage with a Shield Guardian following her around at all times.",
+      "text | Previous owner of Trollskull Manor",
+      "text | Will cast <i>Glyph of Warding </i> for 250 gp.",
+      "fill | ",
+      "picture | https://db4sgowjqfwig.cloudfront.net/images/5110718/Ulkoria_Stonemarrow.jpg | 175"
+    ],
+    "tags": [],
+    "color": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Savra Belabranta",
+    "contents": [
+      "",
+      "text | Member of the Belabranta Noble Family, they breed and train the Griffons for the griffon cavalry.",
+      "text | Contact of the Order of the Gauntlet.",
+      "fill | ",
+      "picture | https://www.worldanvil.com/uploads/images/db4e0819bce750a3dade14027a3aff9b.jpg | 225"
+    ],
+    "tags": [],
+    "color": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Jim Jonas Janssen Jr.",
+    "contents": [
+      "subtitle | Human",
+      "rule",
+      "text | Editor and Owner for the Waterdeep Wazoo, a popular broadsheet company.",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/marveldatabase/images/e/e8/John_Jonah_Jameson_%28Earth-96283%29_from_Spider-Man_3_%28film%29_001.png/revision/latest?cb=20190701113104 | 200"
+    ],
+    "tags": [],
+    "color": "",
+    "background_image": ""
+  }
+]
