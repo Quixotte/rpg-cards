@@ -1,0 +1,102 @@
+[
+  {
+    "count": 1,
+    "title": "Xanathar",
+    "contents": [
+      "text | Leader of the Xanathar's Guild.",
+      "text | Nobody knows who he is or what he looks like.",
+      "picture | https://raw.githubusercontent.com/Quixotte/rpg-cards/master/beholder_cut_out.png | 250"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "icon": "brutal-helm",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Fenerus Stormcastle",
+    "contents": [
+      "text | Human operative of Bregan D'Earthe",
+      "fill | ",
+      "picture | https://i.pinimg.com/564x/3f/fc/54/3ffc5475c469601e966549979f8f412f.jpg | 250"
+    ],
+    "tags": [],
+    "color": "",
+    "icon": "brutal-helm"
+  },
+  {
+    "count": 1,
+    "title": "Nihiloor",
+    "contents": [
+      "text | Mindflayer at Xanathar's Guild, same mindflayer that captured Floon Blagmaar",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/5/5d/Nihiloor-5e.jpg/revision/latest?cb=20190310043658 | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Ahmeargo",
+    "contents": [
+      "text | Xanathar's second in command, runs gladiatorial games for him.",
+      "picture | https://vignette.wikia.nocookie.net/forgottenrealms/images/4/4f/Ahmaergo.png/revision/latest?cb=20181207101959 | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fel'Rekt Lafeen",
+    "contents": [
+      "text | Well dressed drow lieutenant of Bregan D'Earthe.",
+      "picture | https://preview.redd.it/qtdw8ib07qyy.png?width=640&crop=smart&auto=webp&s=307e8846f3753a032e84dd547c132206bde883a8 | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Krebbyg Masq'Il'Yr",
+    "contents": [
+      "text | Drow lieutenant of Bregan D'Earthe.",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/sfdnd/images/0/06/Drow_Gunslinger.png/revision/latest?cb=20190619003711 | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Urstul Floxin",
+    "contents": [
+      "text | Zhentarim operative",
+      "fill | ",
+      "picture | https://vignette.wikia.nocookie.net/kingsway-role-playing-group/images/e/ec/Urtul.PNG/revision/latest/top-crop/width/720/height/900?cb=20190213184501 | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Manshoon",
+    "contents": [
+      "text | Leader and founder of the Zhentarim. Pretty scary wizard.",
+      "fill | ",
+      "picture | https://images-na.ssl-images-amazon.com/images/I/41Egg%2BDLdyL._AC_.jpg | 250"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Nar'l Xibrindas",
+    "contents": [
+      "text | Bregan D'Earthe spy at Xanathar's Lair. Currently being watched by a Grell bodyguard",
+      "fill | ",
+      "picture | https://lh5.googleusercontent.com/proxy/mnw2XtTefGWr5OrwKmAD6SKArmuUgj1A1VMzWJOCYEGBBSE9AMBilhKekzC7GWHaE1RjXSY1hJZH7N4aGYhoBlK-liFYuAQWqh8W1pDLbTU | 250"
+    ],
+    "tags": [],
+    "color": ""
+  }
+]
